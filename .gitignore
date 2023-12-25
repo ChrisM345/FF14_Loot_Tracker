@@ -1,0 +1,6 @@
+test_data.py
+discord_webhook.py
+discord_bot.py
+__pycache__/
+char_to_fc.py
+LootCSV.csv
